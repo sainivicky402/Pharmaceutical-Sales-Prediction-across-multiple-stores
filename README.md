@@ -30,4 +30,4 @@ Deep learning model with LSTM for time series
 Web app deployment on Heroku or similar platforms
 This README is prepared by Vicky Saini.
 
-Note:- Couldnot able to upload many file due to large size
+Note:- Couldnot able to upload many file due to large size(if you run the code can have all the files)
