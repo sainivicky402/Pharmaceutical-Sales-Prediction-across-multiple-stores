@@ -1,0 +1,9 @@
+
+2024-11-13 17:41:02,460 - root - ERROR - Error loading data from 'train_merged_df.csv': [Errno 2] No such file or directory: 'train_merged_df.csv'
+2024-11-13 17:41:02,496 - root - ERROR - Data preprocessing failed: name 'data' is not defined
+2024-11-13 17:41:02,511 - root - ERROR - Sales trend analysis failed: name 'data' is not defined
+2024-11-13 17:41:03,623 - root - INFO - Sales trend visualization completed successfully
+2024-11-14 12:55:38,029 - root - INFO - Data loaded successfully from 'train_merged_df.csv'
+2024-11-14 12:55:38,660 - root - INFO - Data preprocessing completed successfully
+2024-11-14 12:55:38,861 - root - INFO - Sales trend analysis completed successfully
+2024-11-14 12:55:39,490 - root - INFO - Sales trend visualization completed successfully
